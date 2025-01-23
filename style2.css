@@ -1,0 +1,14 @@
+@media (max-width:340px) {
+    
+    .font{
+        font-size: 30px;
+        color: aquamarine;
+    }
+
+}
+
+@media (min-width:400px) and (max-width:600px) {
+    .bg-red{
+        background-color: red;
+    }
+}

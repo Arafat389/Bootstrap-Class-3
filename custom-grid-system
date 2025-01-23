@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Grid System</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-6 col-sm-4 col-md-3 bg-sm-green">
+                <h2>First Col</h2>
+                <p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that </p>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 bg-sm-green">
+                <h2>2nd Col</h2>
+                <p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that </p>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 bg-sm-green">
+                <h2>3 Col</h2>
+                <p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that </p>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 bg-sm-green">
+                <h2>4 Col</h2>
+                <p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that </p>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 bg-sm-green">
+                <h2>5 Col</h2>
+                <p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that </p>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 bg-sm-green">
+                <h2>6 Col</h2>
+                <p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that </p>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
